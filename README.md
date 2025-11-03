@@ -2,7 +2,7 @@
 
 Projeto de ciência de dados voltado à previsão da emissão de CO2 de diferentes tipos de automóveis. Desenvolvido por mim, [Pedro Henrique](https://github.com/pedrohgravina).
 
-![imagem](C:\Users\sampa\Ciência de Dados\Machine Learning\Projeto - Emissão de CO2\imagem)
+![imagem](imagem/imagem.jpg)
 
 ## Organização do projeto
 
